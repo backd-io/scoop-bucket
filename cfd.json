@@ -1,0 +1,15 @@
+{
+    "version": "0.2.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/fernandezvara/certsfor/releases/download/v0.2.2/cfd_0.2.2_Windows_x86_64.zip",
+            "bin": [
+                "cfd.exe"
+            ],
+            "hash": "5492c7ea6bc48844f825ef2a6148203e3bc12bb42be24dfe03787dc60ec95954"
+        }
+    },
+    "homepage": "https://www.certsfor.dev/",
+    "license": "MIT",
+    "description": "Easy certificate management for development environments"
+}
