@@ -1,12 +1,12 @@
 {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fernandezvara/certsfor/releases/download/v0.2.2/cfd_0.2.2_Windows_x86_64.zip",
+            "url": "https://github.com/fernandezvara/certsfor/releases/download/v0.2.3/cfd_0.2.3_Windows_x86_64.zip",
             "bin": [
                 "cfd.exe"
             ],
-            "hash": "5492c7ea6bc48844f825ef2a6148203e3bc12bb42be24dfe03787dc60ec95954"
+            "hash": "a65c284c57edbf15f4d8a69ae52ebb9b8eb1d4d9f0c96add366f94fc21dcc1b4"
         }
     },
     "homepage": "https://www.certsfor.dev/",
